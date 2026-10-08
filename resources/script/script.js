@@ -86,4 +86,5 @@ switch(true) {
     console.log("Obesidade 3")
     break;
     default:
+
 }
